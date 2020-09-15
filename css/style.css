@@ -1,0 +1,130 @@
+body {
+  text-align: center;
+  font-family: "bader_al gordabia-2", serif;
+  font-size: 200px;
+  margin: 0;
+}
+
+h1 {
+  font-family: "Islamic Palestine", serif;
+  color: #b52b65;
+  font-size: 5.625rem;
+  margin: 50px auto 0 line-height: normal;
+}
+
+h2 {
+  font-family: "bader_al gordabia-2", serif;
+  font-size: 2.5rem;
+  color: #b52b65;
+  line-height: normal;
+}
+
+h3 {
+  font-family: "bader_al gordabia-2", serif;
+  font-size: 2.5rem;
+  color: #5c2a9d;
+}
+
+hr {
+  border: dotted #393b44 6px;
+  border-top: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+p {
+  font-family: "bader_al gordabia-2", serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+a {
+  font-family: "bader_al gordabia-2", serif;
+  font-size: 2.5rem;
+}
+
+.box {
+  padding-top: 40px;
+  background-color: #f9f9f9;
+}
+
+.middle-container {
+  background-color: #6886c5;
+}
+
+.cloud {
+  position: relative;
+  right: 100px;
+  bottom: 200px;
+}
+
+.rainbow {
+  position: relative;
+  left: 100px;
+  bottom: 270px;
+}
+
+.btn {
+  color: #5c2a9d;
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: "bader_al gordabia-2", serif;
+  color: #ffffff;
+  font-size: 20px;
+  background: #7fb3eb;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #9bbef2;
+  background-image: -webkit-linear-gradient(top, #9bbef2, #3498db);
+  background-image: -moz-linear-gradient(top, #9bbef2, #3498db);
+  background-image: -ms-linear-gradient(top, #9bbef2, #3498db);
+  background-image: -o-linear-gradient(top, #9bbef2, #3498db);
+  background-image: linear-gradient(to bottom, #9bbef2, #3498db);
+  text-decoration: none;
+}
+}
+
+#webdesigner {
+  color: black;
+}
+
+.contact-me {
+  line-height: 1;
+}
+
+.skill-row {
+  margin: 100px 60px auto auto;
+  text-align: right;
+}
+
+.codepng {
+  width: 15%;
+}
+
+.workpng {
+  width: 15%;
+}
+
+.skill-row2 {
+  margin: 100px 60px auto auto;
+  text-align: right;
+}
+
+.myself-png {
+  width: 14%;
+}
+
+.momajid {
+  background-color: #f9f9f9;
+}
+
+.allcridits {
+  font-size: 0.75rem;
+  padding: 15px;
+  color: #888888;
+
+}
